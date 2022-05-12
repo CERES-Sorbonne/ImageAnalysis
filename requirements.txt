@@ -1,0 +1,6 @@
+pytorch
+scikit-learn
+pillow
+requests
+yellowbrick
+maplotlib
